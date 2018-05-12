@@ -1,4 +1,8 @@
 _repo: Le-notti-degli-emigrati-a-Londra_47058
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47058-h/images/cover.jpg
 creator:
   author:
     agent_name: Petruccelli della Gattina, Ferdinando
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8663
     wikipedia: http://it.wikipedia.org/wiki/Ferdinando_Petruccelli_della_Gattina
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47058#Le-notti-degli-emigrati-a-Londra
 gutenberg_bookshelf: IT Romanzi
 gutenberg_issued: '2014-10-05'
 gutenberg_type: Text
